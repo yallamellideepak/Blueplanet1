@@ -27,6 +27,7 @@ Privacy policy
 About us
 ![About us](https://user-images.githubusercontent.com/118884156/203963340-e825c7e2-62fd-47da-92e6-35e717ff431d.jpg)
 Primary Azure Technology
+
 1.Microsoft Azure Portal
 ![8](https://user-images.githubusercontent.com/118884156/203953369-057ec6f5-8c04-452c-ab02-e3cca55db0ab.jpg)
 2.App Services and Web app
