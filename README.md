@@ -35,7 +35,7 @@ Included the comment space to increase the scope of improvement
 ![9](https://user-images.githubusercontent.com/118884156/203953440-165e4156-22df-4fa1-904a-7ff9f1dc2220.jpg)
 🔗Tech Stack💻
 
-.Microsoft Azure
+## Microsoft Azure
 
-.HTML
+## HTML
 
