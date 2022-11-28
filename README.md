@@ -33,9 +33,9 @@ Included the comment space to increase the scope of improvement
 ![8](https://user-images.githubusercontent.com/118884156/203953369-057ec6f5-8c04-452c-ab02-e3cca55db0ab.jpg)
 2.App Services and Web app
 ![9](https://user-images.githubusercontent.com/118884156/203953440-165e4156-22df-4fa1-904a-7ff9f1dc2220.jpg)
-🔗Tech Stack💻
+## Tech Stack💻
 
-## Microsoft Azure
+#Microsoft Azure
 
-## HTML
+#HTML
 
