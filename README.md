@@ -3,6 +3,7 @@
 This is a web based application developed for Earth related website
 
 This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+
 Project Link -https://Blueplanet1.azurewebsites.net
 
 Features and Functionalities 😃
@@ -29,10 +30,14 @@ Included the comment space to increase the scope of improvement
 ![About us](https://user-images.githubusercontent.com/118884156/203963340-e825c7e2-62fd-47da-92e6-35e717ff431d.jpg)
 🔗Primary Azure Technology
 
-1.Microsoft Azure Portal
-![8](https://user-images.githubusercontent.com/118884156/203953369-057ec6f5-8c04-452c-ab02-e3cca55db0ab.jpg)
+1. Networking
+
+![Screenshot (91)](https://user-images.githubusercontent.com/118884156/209460620-81f3c672-1088-47b5-b969-c964257acb51.png)
+
 2.App Services and Web app
+
 ![9](https://user-images.githubusercontent.com/118884156/203953440-165e4156-22df-4fa1-904a-7ff9f1dc2220.jpg)
+
 ## Tech Stack💻
 
 1.Microsoft Azure
